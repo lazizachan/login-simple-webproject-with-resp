@@ -117,7 +117,12 @@ body {
   font-size: 0.8rem;
   color: #4689a9;
 }
+.github_link {
+  margin-left: 1rem;
+  text-decoration: none;
+}
 .fa-github {
+  font-size: 1.5em;
   cursor: pointer;
 }
 @media (max-width: 480px) {
